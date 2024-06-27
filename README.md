@@ -39,12 +39,34 @@ Arun Kumar
 
 ![Dashboard Api Input Data](README_3.png) 
 
+```
+{
+"Bot Name:"AR04",
+"Total Records Completed": "8667",
+"Total Records Processed": "8869", 
+"Date Released Into Production":"2023-05-09",
+"Average Length Of Run": "1 hour 28 minutes for 88 records",
+"Frequency of Operation": "Daily",
+"Action When Bot Not Running": "Catch up run scheduled accordingly", 
+"Date Filled Out": "2024-09-02"
+}
+```
+
 **Bot Details Data**
 * The first JSON value must specify the Bot Name.
 
 ![Dashboard Api Input Data](README_2.png)
 
-
+```
+{
+"bot_name": "ARO2", 
+"file_name": "AR01-MasterFile-12-03-2024.csv",
+"Total_records": "47",
+"Input_records_to_the_bot": "30",
+"Processed_records_by_bot": "28",
+"Success_result": "93.33%"
+}
+```
 
 
 ## Return Value

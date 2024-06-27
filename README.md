@@ -59,7 +59,7 @@ Arun Kumar
 
 ```
 {
-"bot_name": "ARO2", 
+"bot_name": "AR02", 
 "file_name": "AR01-MasterFile-12-03-2024.csv",
 "Total_records": "47",
 "Input_records_to_the_bot": "30",
